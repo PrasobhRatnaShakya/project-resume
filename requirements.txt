@@ -8,3 +8,7 @@ langchain-google-genai
 langchain-core
 torch
 transformers
+fastapi
+uvicorn[standard]
+psycopg2-binary
+python-multipart
