@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Database file
+placement_portal.db

@@ -1,0 +1,10 @@
+streamlit
+spacy
+sentence-transformers
+pandas
+PyPDF2
+python-docx
+langchain-google-genai
+langchain-core
+torch
+transformers
